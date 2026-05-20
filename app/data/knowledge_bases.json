@@ -1,0 +1,17 @@
+{
+  "24880637-fa57-47af-b2e3-ac4ba9792722": {
+    "id": "24880637-fa57-47af-b2e3-ac4ba9792722",
+    "name": "1",
+    "description": "1",
+    "embedding_model": "volcengine/doubao-embedding-vision-251215",
+    "chunk_size": 1000,
+    "chunk_overlap": 150,
+    "separators": [
+      "\\n\\n",
+      "\\n",
+      "。"
+    ],
+    "documents": [],
+    "created_at": "2026-04-13T20:29:46.844584"
+  }
+}
